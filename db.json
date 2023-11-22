@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen",
+      "empresa": "Codigo Con Juan",
+      "email": "karen_nuevo@juan.com",
+      "telefono": "138198313",
+      "notas": "Karen desea una REST API",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Lohana ",
+      "empresa": "codigo web",
+      "email": "lohaorellano13@gmail.com",
+      "telefono": "3791077529",
+      "notas": "El cliente necesita una Landing Page",
+      "id": 6
+    }
+  ]
+}
